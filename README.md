@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**karthik-kk-aiml/karthik-kk-aiml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Projects
+Here are the key projects I’ve worked on:
 
-Here are some ideas to get you started:
+1. **[Multimodal AI Chatbot](https://github.com/karthik-kk-aiml/01-multimodal-ai-chatbot-final-capstone-project)**  
+   A multimodal AI chatbot for YouTube Q&A. (Final bootcamp project)
+2. **[Customer Review Analysis](https://github.com/karthik-kk-aiml/02-automated-customer-review-analysis)**  
+   An analysis tool for Amazon reviews using clustering, sentiment analysis and generate summary.
+3. **[NLP Text Classification](https://github.com/karthik-kk-aiml/03-nlp-text-classification)**  
+   A project demonstrating text classification using machine learning models.
+4. **[Deep Learning CNN for Image Classification](https://github.com/karthik-kk-aiml/04-deep-learning-cnn-image-classification)**  
+   Image classification using VGG16 and transfer learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Hi, I'm Karthik (KK). You can connect with me on LinkedIn:
+
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn--blue?logo=linkedin&style=social)](https://www.linkedin.com/in/karthik-kk-aiml/)
+
